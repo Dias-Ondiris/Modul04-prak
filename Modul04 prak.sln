@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul04 prak", "Modul04 prak\Modul04 prak.csproj", "{9BB07D1B-C0FB-4D24-B95F-6BE459883605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB07D1B-C0FB-4D24-B95F-6BE459883605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB07D1B-C0FB-4D24-B95F-6BE459883605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB07D1B-C0FB-4D24-B95F-6BE459883605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB07D1B-C0FB-4D24-B95F-6BE459883605}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2286A0C-B409-435D-92CD-1B15E6891966}
+	EndGlobalSection
+EndGlobal
